@@ -1,0 +1,46 @@
+body {
+	padding-top: 70px;
+}
+
+.image {
+	width: 100%;
+	height: 250px;
+	background-size: cover;
+	background-position: center center;
+}
+
+.image1 { 
+	background-image: url(https://images.unsplash.com/photo-1507761161372-1cc071ba4cec?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9%0A&s=83ba76841766a436c8b6d10ad9c2be10);
+}
+
+.image2 {
+	background-image: url(https://images.unsplash.com/photo-1491555103944-7c647fd857e6?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=2e256c50a52de00ae3a596d154b9b92a);
+}
+
+.image3 {
+	background-image: url(https://images.unsplash.com/photo-1509780764860-beca5b971c4b?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9%0A&s=11f74ea732959d22e5d05a051a59b555);
+}
+
+.image4 {
+	background-image: url(https://images.unsplash.com/photo-1500479694472-551d1fb6258d?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9%0A&s=101bd4dd2186d2364f1e3f133517e66b);
+}
+
+.image5 {
+	background-image: url(https://images.unsplash.com/photo-1503249023995-51b0f3778ccf?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9%0A&s=7abba4041c18ca3c8285e2465313aed5);
+}
+
+.image6 {
+	background-image: url(https://images.unsplash.com/photo-1487611459768-bd414656ea10?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=ef9657723c6a3e3c2d295867c39125ea);
+}
+
+.image7 {
+	background-image: url(https://images.unsplash.com/photo-1468779065891-103dac4a7c48?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=35496f64877dd76dbe534efc8625bd);
+}
+
+.image8 {
+	background-image: url(https://images.unsplash.com/photo-1423012373122-fff0a5d28cc9?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=fd4f6edd3de7b9ab6ef11476c4605e16);
+}
+
+.image9 {
+	background-image: url(https://images.unsplash.com/photo-1494336850228-54adc1dd87ad?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=736547216f6dcd9b355c7ab57aa215b6);
+}
